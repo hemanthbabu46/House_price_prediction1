@@ -1,4 +1,7 @@
 pandas
 numpy
 matplotlib
-Flask,request,jsonify,util
+Flask
+request
+jsonify
+util
