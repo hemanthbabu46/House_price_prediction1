@@ -127,7 +127,7 @@ python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2022.7.1
 PyWavelets==1.4.1
-pywin32==306
+pywin32==305  # Adjusted to a compatible version
 pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==24.0.1
