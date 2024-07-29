@@ -1,7 +1,4 @@
-pandas
-numpy
-matplotlib
-Flask
-request
-jsonify
-util
+pandas~=1.3.3
+numpy~=1.19.5
+matplotlib~=3.4.3
+
