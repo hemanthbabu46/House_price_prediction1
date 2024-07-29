@@ -179,4 +179,4 @@ widgetsnbextension==4.0.8
 wrapt==1.16.0
 xgboost==1.7.6
 zipp==3.16.2
-
+gunicorn
